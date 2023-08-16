@@ -1,0 +1,36 @@
+body,html{
+margin: auto;
+border: solid 10px orange;
+background-color: beige;
+}
+
+#destaque{
+  background-image: url(fundo2.jpg);
+  text-align: center;
+  color: blanchedalmond;
+  height: 300px
+}
+.item{
+  width: 20%;
+  border: 10px solid gray;
+  float: left;
+  text-align: center;
+  padding: 2%;
+}
+
+#produto{
+  text-align: justify;
+  clear:both;
+}
+
+footer{
+  clear: both;
+  text-align: center;
+  
+}
+
+   
+   
+ 
+
+
